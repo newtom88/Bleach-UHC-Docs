@@ -1,8 +1,9 @@
 ---
 description: new.t0m
+icon: knife-kitchen
 ---
 
-# 🗡️ • Aizen
+# • Aizen
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -17,7 +18,7 @@ description: new.t0m
 
 » Objets à disposition
 
-> <mark style="color:orange;">**Aizen**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Kyoga Suigetsu**".&#x20;
+> <mark style="color:orange;">**Aizen**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Kyoga Suigetsu**".
 >
 > Lorsqu'<mark style="color:orange;">**Aizen**</mark> frappe un joueur avec "**Kyoga Suigetsu**", le joueur sera dans l'**incapacité** d'obtenir quelconque effet d'<mark style="color:yellow;">**absorption**</mark> pendant **10sec**. (_1x/30sec/joueur_)
 
@@ -66,4 +67,4 @@ description: new.t0m
 > <mark style="color:orange;">**Aizen**</mark> génère une **boîte noir** sur un rayon de **30 blocs** pendant **1.5 seconde** après quoi l'ensemble des joueurs présent dans la boîte obtiennent <mark style="color:purple;">**Cécité**</mark> et reçoivent <mark style="color:red;">**2❤**</mark> non létal.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/BMkuHQEYHy8AAAAC/bankai.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/BMkuHQEYHy8AAAAC/bankai.gif" alt=""><figcaption><p><mark style="color:orange;"><strong>Aizen</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

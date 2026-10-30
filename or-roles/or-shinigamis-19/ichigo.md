@@ -1,15 +1,16 @@
 ---
 description: by new.t0m
+icon: swords
 ---
 
-# ⚔️ • Ichigo
+# • Ichigo
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
 » _Objets à disposition_
 
-> <mark style="color:green;">**Ichigo**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Zangetsu**".&#x20;
+> <mark style="color:green;">**Ichigo**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Zangetsu**".
 
 ***
 
@@ -19,7 +20,7 @@ description: by new.t0m
 >
 > Ce **%** augmente de **1%** toutes les **3 secondes** après l'activation du **JcJ**, de **20%** après avoir effectué une élimination et diminuera de **1%** tous les **3 coups** reçu.
 >
-> Plus le **%** sera haut, plus <mark style="color:green;">**Ichigo**</mark> obtiendra de nouvelle capacité et passif : <br>
+> Plus le **%** sera haut, plus <mark style="color:green;">**Ichigo**</mark> obtiendra de nouvelle capacité et passif :<br>
 >
 > <mark style="color:blue;">**➲**</mark> **< 50%** : <mark style="color:green;">**Ichigo**</mark> n'obtiendra rien.
 >
@@ -45,19 +46,19 @@ description: by new.t0m
 {% hint style="success" %}
 **→&#x20;**<mark style="color:green;">**CAPACITÉS ACTIVES**</mark>
 
-» _Pouvoirs_ | `Clic-Droit/Gauche`&#x20;
+» _Pouvoirs_ | `Clic-Droit/Gauche`
 
 > En frappant un bloc, <mark style="color:green;">**Ichigo**</mark> change alors de capacité.\
 > En effectuant un **clic-droit**, <mark style="color:green;">**Ichigo**</mark> utilise alors la capacité sélectionné.<br>
 >
 > » Tensa Zangetsu | _Cooldown: 10mn_
 >
-> > Pendant **3 minutes**, <mark style="color:green;">**Ichigo**</mark> obtient alors <mark style="color:blue;">**Vitesse I**</mark> (**19%**) chaque coup qu'il inflige lui octroie alors **5%** de <mark style="color:blue;">**Vitesse**</mark> supplémentaires temps qu'il ne reçoit pas de coup. \
+> > Pendant **3 minutes**, <mark style="color:green;">**Ichigo**</mark> obtient alors <mark style="color:blue;">**Vitesse I**</mark> (**19%**) chaque coup qu'il inflige lui octroie alors **5%** de <mark style="color:blue;">**Vitesse**</mark> supplémentaires temps qu'il ne reçoit pas de coup.\
 > > À la fin de la capacité, le **%** de <mark style="color:blue;">**Vitesse**</mark> qu'il a accumulé sera alors divisé par **5** et <mark style="color:green;">**Ichigo**</mark> conservera alors cette <mark style="color:blue;">**Vitesse**</mark> jusqu'à la fin du **cooldown** de la capacité.
 >
 > » Hollowmorphose | _Cooldown: 10mn_
 >
-> > Pendant **3 minutes**, <mark style="color:green;">**Ichigo**</mark> obtient alors une **régénération passive** de <mark style="color:red;">**0.5❤**</mark>/10sec. \
+> > Pendant **3 minutes**, <mark style="color:green;">**Ichigo**</mark> obtient alors une **régénération passive** de <mark style="color:red;">**0.5❤**</mark>/10sec.\
 > > <mark style="color:green;">**Ichigo**</mark> obtiendra également un cumule d'effet qu'il débloque au début, à la première minute et la seconde minute dans l'ordre : <mark style="color:blue;">**Vitesse I**</mark> → <mark style="color:yellow;">**Résistance I**</mark> → <mark style="color:blue;">**Vitesse II**</mark>.
 >
 > » Blut Vene | _Cooldown: 10mn_
@@ -66,7 +67,7 @@ description: by new.t0m
 >
 > » Getsuga Tensho | _Cooldown: 10mn_
 >
-> > <mark style="color:green;">**Ichigo**</mark>  envoie alors une **onde de choc** devant lui sur **30 blocs**, détruisant les **blocs** et infligeant <mark style="color:red;">**2.5❤**</mark> aux joueurs touché par l'**onde de choc** tout en les repoussant de **20 blocs**.
+> > <mark style="color:green;">**Ichigo**</mark> envoie alors une **onde de choc** devant lui sur **30 blocs**, détruisant les **blocs** et infligeant <mark style="color:red;">**2.5❤**</mark> aux joueurs touché par l'**onde de choc** tout en les repoussant de **20 blocs**.
 >
 > » Final Getsuga Tensho | _1x/partie_
 >
@@ -74,4 +75,4 @@ description: by new.t0m
 > > À la fin de la capacité, <mark style="color:green;">**Ichigo**</mark> perd tous les avantages de son rôle de manière passive.
 {% endhint %}
 
-<figure><img src="https://nannoxxgd.gitbook.io/bleach-uhc/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2F7rLsBpyHAkuTkUpxUrzt%2Fblobs%2FOZbiVnvOHslvGqElmhgr%2Fichigo-kurosaki.gif&#x26;width=400&#x26;dpr=3&#x26;quality=100&#x26;sign=6c11745e&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://nannoxxgd.gitbook.io/bleach-uhc/~gitbook/image?url=https%3A%2F%2Fcontent.gitbook.com%2Fcontent%2F7rLsBpyHAkuTkUpxUrzt%2Fblobs%2FOZbiVnvOHslvGqElmhgr%2Fichigo-kurosaki.gif&#x26;width=400&#x26;dpr=3&#x26;quality=100&#x26;sign=6c11745e&#x26;sv=2" alt=""><figcaption><p><mark style="color:green;"><strong>Ichigo</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

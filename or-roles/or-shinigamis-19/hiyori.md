@@ -1,15 +1,16 @@
 ---
 description: by new.t0m
+icon: swords
 ---
 
-# ⚔️ • Hiyori
+# • Hiyori
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
 » _Objets à disposition_
 
-> <mark style="color:green;">**Hiyori**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Kubirki Orochi**".&#x20;
+> <mark style="color:green;">**Hiyori**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Kubirki Orochi**".
 
 ***
 
@@ -31,3 +32,5 @@ description: by new.t0m
 
 > Pendant **2mn**, <mark style="color:green;">**Hiyori**</mark> outrepasse la <mark style="color:orange;">**Résistance**</mark> de joueur et pour chaque **pièce** d'armure que le joueur a à moins de **50%** de sa durabilité, elle inflige **5%** de dégâts supplémentaires.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/j1yLieX90o0AAAAC/hiyori-bleach.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Hiyori</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

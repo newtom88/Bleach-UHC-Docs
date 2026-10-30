@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: swords
 ---
 
-# ⚔️ • Ishida
+# • Ishida
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -15,7 +16,7 @@ description: by love4market
 
 » _Objets à disposition_
 
-> <mark style="color:green;">**Ishida**</mark> reçoit d'un **arc** <mark style="color:purple;">**Puissance I**</mark> et <mark style="color:purple;">**Infinité**</mark> nommée "**Ginrei Kojaku**".&#x20;
+> <mark style="color:green;">**Ishida**</mark> reçoit d'un **arc** <mark style="color:purple;">**Puissance I**</mark> et <mark style="color:purple;">**Infinité**</mark> nommée "**Ginrei Kojaku**".
 
 ***
 
@@ -49,3 +50,5 @@ description: by love4market
 >
 > En utilisant la capacité, <mark style="color:green;">**Ishida**</mark> retourne alors l'ensemble des **dégâts** aux joueurs qui en sont responsable et sera **soignée** de **100%** de sa vie.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/7ktNKbZIHIkAAAAd/uryu-uryu-ishida.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Ishida</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

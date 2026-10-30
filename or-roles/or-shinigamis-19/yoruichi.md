@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: swords
 ---
 
-# ⚔️ • Yoruichi
+# • Yoruichi
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -21,7 +22,7 @@ description: by love4market
 
 » Shunko | `Clic-Droit` | _Cooldown: 5mn_ | _2 segments_
 
-> <mark style="color:green;">**Yoruichi**</mark> effectue un **dash** sur **10 blocs** invoquant des éclairs infligeant <mark style="color:red;">**1❤**</mark> aux joueurs touché puis obtient **10%** de <mark style="color:blue;">**Vitesse**</mark> pendant **2mn**.&#x20;
+> <mark style="color:green;">**Yoruichi**</mark> effectue un **dash** sur **10 blocs** invoquant des éclairs infligeant <mark style="color:red;">**1❤**</mark> aux joueurs touché puis obtient **10%** de <mark style="color:blue;">**Vitesse**</mark> pendant **2mn**.
 
 ***
 
@@ -30,4 +31,4 @@ description: by love4market
 > <mark style="color:green;">**Yoruichi**</mark> obtient <mark style="color:blue;">**Vitesse II**</mark> et génère des **particules jaunes** autour d'elle pendant **2mn** ou jusqu'à avoir **reçu** **50 coups**. Durant ce lapse de temps, <mark style="color:green;">**Yoruichi**</mark> dispose de **5%** de chance de faire tomber le foudre en frappant un joueur l'immobilisant pendant **0.75sec** et conférant **10%** de <mark style="color:blue;">**Vitesse**</mark> à <mark style="color:green;">**Yoruichi**</mark> pendant **15sec**.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/Rh9BW_BkvWMAAAAC/yoruichi-yoruichi-shih%C5%8Din.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/Rh9BW_BkvWMAAAAC/yoruichi-yoruichi-shih%C5%8Din.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Yoruichi</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

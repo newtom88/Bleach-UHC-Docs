@@ -1,21 +1,22 @@
 ---
 description: by love4market
+icon: phone-office
 ---
 
-# ☎️ • Giriko
+# • Giriko
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
 » _Objets à disposition_
 
-> <mark style="color:purple;">**Giriko**</mark> reçoit une **épée** en diamant nommée "**Time Tells No Lies**".&#x20;
+> <mark style="color:purple;">**Giriko**</mark> reçoit une **épée** en diamant nommée "**Time Tells No Lies**".
 
 ***
 
 » _Time Tells No Lies_
 
-> En tenant "**Time Tells No Lies**" en main, <mark style="color:purple;">**Giriko**</mark> voit un nombre de coup allant jusqu'à **20** **coups**. Tous les **20 coups**, <mark style="color:purple;">**Giriko**</mark> infligera une règle aux joueurs frappé : <br>
+> En tenant "**Time Tells No Lies**" en main, <mark style="color:purple;">**Giriko**</mark> voit un nombre de coup allant jusqu'à **20** **coups**. Tous les **20 coups**, <mark style="color:purple;">**Giriko**</mark> infligera une règle aux joueurs frappé :<br>
 >
 > <mark style="color:blue;">**➲**</mark> Ne pas sauter pendant **6sec**.\
 > <mark style="color:blue;">**➲**</mark> Ne plus manger pendant **7sec**.\
@@ -47,3 +48,5 @@ description: by love4market
 
 > <mark style="color:purple;">**Giriko**</mark> devient **invincible** pendant **10sec** et en infligeant un joueur, <mark style="color:purple;">**Giriko**</mark> redevient **vincible**.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/f4eZhGLqdjcAAAAC/bleach-giriko.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>Giriko</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

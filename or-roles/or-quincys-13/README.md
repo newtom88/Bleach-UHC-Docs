@@ -1,2 +1,6 @@
-# ✝️ | Quincys (13)
+---
+icon: cross
+---
+
+# | Quincys (13)
 

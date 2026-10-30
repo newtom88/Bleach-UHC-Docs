@@ -1,8 +1,9 @@
 ---
 description: by new.t0m (de la version java)
+icon: swords
 ---
 
-# ⚔️ • Rukia
+# • Rukia
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -23,7 +24,7 @@ description: by new.t0m (de la version java)
 
 > <mark style="color:green;">**Rukia**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Sode no Shirayuki**".
 >
-> En la tenant en main, <mark style="color:green;">**Rukia**</mark> voit la **Température Corporelle** du joueur le plus proche d'elle au dessus de sa **hotbar**.&#x20;
+> En la tenant en main, <mark style="color:green;">**Rukia**</mark> voit la **Température Corporelle** du joueur le plus proche d'elle au dessus de sa **hotbar**.
 >
 > La **Température Corporelle** est par défaut de **37°C** mais diminue de **1°C** en recevant un coup classique et de **2°C** en recevant un coup critique. Elle augmente de **1°C** toutes les **1 minute** sans recevoir de coup de la part de <mark style="color:green;">**Rukia**</mark>.
 {% endhint %}
@@ -33,7 +34,7 @@ description: by new.t0m (de la version java)
 
 » _Glacification_ | `Clic-Droit` | _Cooldown: 1mn_
 
-> En ciblant un joueur, ce dernier subit un malus qui varie en fonction de sa **Température Corporelle** : <br>
+> En ciblant un joueur, ce dernier subit un malus qui varie en fonction de sa **Température Corporelle** :<br>
 >
 > <mark style="color:green;">**➲**</mark> Entre **37°C** et **30°C** : Le joueur obtient l'effet <mark style="color:purple;">**Lenteur I**</mark> pendant **15sec**.
 >
@@ -52,4 +53,4 @@ description: by new.t0m (de la version java)
 > L'**armure** de <mark style="color:green;">**Rukia**</mark> devient entièrement en fer <mark style="color:purple;">**Protection IV**</mark> et son **épée** devient une **épée** en fer <mark style="color:purple;">**Tranchant II**</mark> pendant **2 minutes** ou au bout de **40 coups** infligés. Sous cette forme, <mark style="color:green;">**Rukia**</mark> fera perdra **2x** plus rapidement la température corporelle des joueurs.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/XJZDiH3tB6MAAAAC/bleach-bleach2022.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/XJZDiH3tB6MAAAAC/bleach-bleach2022.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Rukia</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

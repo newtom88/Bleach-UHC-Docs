@@ -1,8 +1,9 @@
 ---
 description: by new.t0m & love4market
+icon: swords
 ---
 
-# ⚔️ • Chad
+# • Chad
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -42,4 +43,4 @@ description: by new.t0m & love4market
 > > Le prochain coup qu'**inflige** <mark style="color:green;">**Chad**</mark>, infligera <mark style="color:red;">**1❤**</mark>, générera un **cratère** de **3 blocs** retirant l'<mark style="color:yellow;">**Absorption**</mark> du joueur et le retournant de **180°**.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/CIkA1_q55_IAAAAC/chad-yasutora-brazo-derecho-del-gigante.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/CIkA1_q55_IAAAAC/chad-yasutora-brazo-derecho-del-gigante.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Chad</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

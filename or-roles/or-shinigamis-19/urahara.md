@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: swords
 ---
 
-# ⚔️ • Urahara
+# • Urahara
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -17,7 +18,7 @@ description: by love4market
 
 » _Objets à disposition_
 
-> <mark style="color:green;">**Urahara**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Benehime**".&#x20;
+> <mark style="color:green;">**Urahara**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Benehime**".
 
 ***
 
@@ -35,9 +36,9 @@ description: by love4market
 
 » Kannonbiraki Benehime Aratame | `Clic-Droit` | _Cooldown: 10mn & 2x/partie_
 
-> <mark style="color:green;">**Urahara**</mark> génère une zone de **70 blocs** pendant **3mn** dans laquelle, il obtiendra un effet choisi entre <mark style="color:red;">**Force I**</mark>, <mark style="color:orange;">**Résistance I**</mark>, <mark style="color:blue;">**Vitesse I**</mark> et <mark style="color:pink;">**régénération passive**</mark> de <mark style="color:red;">**½❤**</mark>/**12sec**.&#x20;
+> <mark style="color:green;">**Urahara**</mark> génère une zone de **70 blocs** pendant **3mn** dans laquelle, il obtiendra un effet choisi entre <mark style="color:red;">**Force I**</mark>, <mark style="color:orange;">**Résistance I**</mark>, <mark style="color:blue;">**Vitesse I**</mark> et <mark style="color:pink;">**régénération passive**</mark> de <mark style="color:red;">**½❤**</mark>/**12sec**.
 >
-> Lorsqu'<mark style="color:green;">**Urahara**</mark> effectue une élimination lorsque la capacité est **actif** ou **non**, il améliore aléatoirement l'un des effets : <br>
+> Lorsqu'<mark style="color:green;">**Urahara**</mark> effectue une élimination lorsque la capacité est **actif** ou **non**, il améliore aléatoirement l'un des effets :<br>
 >
 > <mark style="color:green;">**➲**</mark> <mark style="color:red;">**Force**</mark> : **+2%** avec un maximum de **+10%**.\
 > <mark style="color:green;">**➲**</mark> <mark style="color:orange;">**Résistance**</mark> : **+3%** avec un maximum de **+15%**.\
@@ -48,4 +49,4 @@ description: by love4market
 > Il pourra changer d'effet à tout instant avec un **clic-droit** via "**Benehime**". Les passifs de "**Benehime**" ne pourront pas s'appliquer durant ce lapse de temps ou s'il sort de la **zone**.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/1ps5l7WKnHgAAAAC/urahara.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/1ps5l7WKnHgAAAAC/urahara.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Urahara</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

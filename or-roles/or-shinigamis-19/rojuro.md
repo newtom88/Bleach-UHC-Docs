@@ -1,15 +1,16 @@
 ---
 description: by new.t0m
+icon: swords
 ---
 
-# ⚔️ • Rôjûrô
+# • Rôjûrô
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
 » _Objets à disposition_
 
-> <mark style="color:green;">**Rôjûrô**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Kinshara**".&#x20;
+> <mark style="color:green;">**Rôjûrô**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Kinshara**".
 
 ***
 
@@ -30,3 +31,5 @@ description: by new.t0m
 
 > En ciblant un joueur, ce dernier recevra <mark style="color:purple;">**Nausée**</mark> pendant **30sec**.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/8fK4OmiaRjwAAAAC/bleach-bleach2022.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Rôjûrô</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

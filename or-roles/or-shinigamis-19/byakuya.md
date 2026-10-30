@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: swords
 ---
 
-# ⚔️ • Byakuya
+# • Byakuya
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -15,7 +16,7 @@ description: by love4market
 
 » _Objets à disposition_
 
-> <mark style="color:green;">**Byakuya**</mark> reçoit une **épée** en diamant nommée "**Senbonzakura**".&#x20;
+> <mark style="color:green;">**Byakuya**</mark> reçoit une **épée** en diamant nommée "**Senbonzakura**".
 
 ***
 
@@ -23,7 +24,7 @@ description: by love4market
 
 > En tenant "**Senbonzakura**" en main, <mark style="color:green;">**Byakuya**</mark> voit **4 symboles de fleurs** en dessous des **pseudonyme** des joueurs.
 >
-> En frappant un joueur avec "**Senbonzakura**" un total de **4 fois**, <mark style="color:green;">**Byakuya**</mark> remplie une **fleur**. Pour chaque **fleur**, <mark style="color:green;">**Byakuya**</mark> recevra une **réduction** de **2.5%** des dégâts. Lorsqu'il frappe un joueur à **4 fleurs** plusieurs choses sont effectué : <br>
+> En frappant un joueur avec "**Senbonzakura**" un total de **4 fois**, <mark style="color:green;">**Byakuya**</mark> remplie une **fleur**. Pour chaque **fleur**, <mark style="color:green;">**Byakuya**</mark> recevra une **réduction** de **2.5%** des dégâts. Lorsqu'il frappe un joueur à **4 fleurs** plusieurs choses sont effectué :<br>
 >
 > <mark style="color:blue;">**➲**</mark> Le joueur dispose de plus de <mark style="color:red;">**2❤**</mark> : Le joueur reçoit <mark style="color:red;">**1.5❤**</mark>.\
 > <mark style="color:blue;">**➲**</mark> Le joueur possède moins de <mark style="color:red;">**2❤**</mark> : Le joueur est **exécuté** sans pouvoir réapparaître.<br>
@@ -46,7 +47,7 @@ description: by love4market
 >
 > Dans cette dernière, des **épées** apparaisent, pour chaque **épée** que récupère <mark style="color:green;">**Byakuya**</mark> il infligera **5%** de dégâts supplémentaires avec un maximum de **40%** pour la durée de la capacité.
 >
-> <mark style="color:green;">**Byakuya**</mark> sera également **insensible** aux dégâts infliger à plus de **2.5 blocs**.&#x20;
+> <mark style="color:green;">**Byakuya**</mark> sera également **insensible** aux dégâts infliger à plus de **2.5 blocs**.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/4Bs5J1HYu1sAAAAC/bleach.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/4Bs5J1HYu1sAAAAC/bleach.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Byakuya</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

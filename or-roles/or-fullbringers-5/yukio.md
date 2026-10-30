@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: phone-office
 ---
 
-# ☎️ • Yukio
+# • Yukio
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -44,4 +45,4 @@ description: by love4market
 > Dans cette zone, les alliés de <mark style="color:purple;">**Yukio**</mark> reçoivent une régénération passive de <mark style="color:red;">**½❤**</mark>/**4sec**. Et des **clones** de <mark style="color:purple;">**Yukio**</mark> avec le même équipement que ce dernier mourant en **5 coups** apparaîtrons et attaquerons les joueurs pas dans son camp.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/u2_aaLIOKSYAAAAC/yukio-yukio-hans-vorarlberna.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/u2_aaLIOKSYAAAAC/yukio-yukio-hans-vorarlberna.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>Yukio</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

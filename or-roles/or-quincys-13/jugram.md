@@ -1,8 +1,9 @@
 ---
 description: by new.t0m (inspiré de java)
+icon: cross
 ---
 
-# ✝️ • Jugram
+# • Jugram
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -15,7 +16,7 @@ description: by new.t0m (inspiré de java)
 
 » Balance
 
-> Lorsqu'un joueur élimine un <mark style="color:blue;">**Quincy**</mark>, il sera alors marqué par <mark style="color:blue;">**Jugram**</mark> pendant **20 minutes**. <mark style="color:blue;">**Jugram**</mark> infligera **15%** de dégâts supplémentaires à ce joueur. \
+> Lorsqu'un joueur élimine un <mark style="color:blue;">**Quincy**</mark>, il sera alors marqué par <mark style="color:blue;">**Jugram**</mark> pendant **20 minutes**. <mark style="color:blue;">**Jugram**</mark> infligera **15%** de dégâts supplémentaires à ce joueur.\
 > En éliminant à nouveau un <mark style="color:blue;">**Quincy**</mark> si le joueur est déjà marqué, et que le joueur se trouve dans un rayon de **10 blocs** de <mark style="color:blue;">**Jugram**</mark> pendant **4 secondes**, il sera alors exécuté sans moyen de revenir à la vie.
 >
 > Lorsqu'un joueur meurt de cette façon, <mark style="color:blue;">**Jugram**</mark> obtient <mark style="color:red;">**1❤**</mark>.
@@ -38,7 +39,7 @@ description: by new.t0m (inspiré de java)
 >
 > Via un **clic-droit**, il pourra alors se soigner de la quantité de ces **points de vie**.
 >
-> En frappant un joueur, il soignera ce dernier de la quantité de ces **points de vie**.&#x20;
+> En frappant un joueur, il soignera ce dernier de la quantité de ces **points de vie**.
 
 ***
 
@@ -52,3 +53,5 @@ description: by new.t0m (inspiré de java)
 >
 > Après quoi, les joueurs seront immobilisé pendant **2 secondes** sans rien pouvoir faire.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/BbIWBRfBdAQAAAAC/jugram-jugram-haschwalth.gif" alt=""><figcaption><p><mark style="color:blue;"><strong>Jugram</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

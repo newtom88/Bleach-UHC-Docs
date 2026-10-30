@@ -1,8 +1,9 @@
 ---
 description: by new.t0m
+icon: swords
 ---
 
-# ⚔️ • Nelliel
+# • Nelliel
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -11,7 +12,7 @@ description: by new.t0m
 
 > <mark style="color:green;">**Nelliel**</mark> dispose de deux forme dans la partie, la forme **Nel Tu** (_Enfant_) et la forme <mark style="color:green;">**Nelliel**</mark> (_Adulte_). En forme **Nel Tu**, <mark style="color:green;">**Nelliel**</mark> est bloqué à un seuil de <mark style="color:red;">**8❤**</mark> permanent.
 >
-> Passivement, elle voit au dessus de sa hotbar un **% de Reiryoku** au dessus de sa **hotbar**. En fonction de ses **actions** après l'activation du **Joueur contre Joueur**, ce **%** pourra alors augmenter : <br>
+> Passivement, elle voit au dessus de sa hotbar un **% de Reiryoku** au dessus de sa **hotbar**. En fonction de ses **actions** après l'activation du **Joueur contre Joueur**, ce **%** pourra alors augmenter :<br>
 >
 > <mark style="color:blue;">**➲**</mark> **Recevoir ou infliger un coup** : **+0.5%**.\
 > <mark style="color:blue;">**➲**</mark> **Manger une&#x20;**<mark style="color:yellow;">**pomme dorée**</mark> : **+1%**.\
@@ -49,7 +50,7 @@ description: by new.t0m
 
 » _Headbutt_ | `Clic-Droit` | _Cooldown: 2mn_ | _Nel Tu_
 
-> En ciblant un joueur, <mark style="color:green;">**Nelliel**</mark> effectue un **dash** jusqu'à attendre se dernier qui détruit les blocs en **3x3**. Une fois au joueur, il sera propulsé de **15 blocs** et ne pourra plus bouger sa caméra pendant **3sec**.&#x20;
+> En ciblant un joueur, <mark style="color:green;">**Nelliel**</mark> effectue un **dash** jusqu'à attendre se dernier qui détruit les blocs en **3x3**. Une fois au joueur, il sera propulsé de **15 blocs** et ne pourra plus bouger sa caméra pendant **3sec**.
 
 ***
 
@@ -58,4 +59,4 @@ description: by new.t0m
 > <mark style="color:green;">**Nelliel**</mark> est téléporté **20 blocs** dans la direction visé générant une trainé de **particules vertes**, les joueurs dans un rayon **4 blocs** du rayon de particule subiront <mark style="color:red;">**2❤**</mark> et seront immobilisé pendant **2.5sec**.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/cuFqIkFvZ7oAAAAC/nelliel.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/cuFqIkFvZ7oAAAAC/nelliel.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Nelliel</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

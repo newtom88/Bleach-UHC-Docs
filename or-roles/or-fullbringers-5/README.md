@@ -1,2 +1,6 @@
-# ☎️ | Fullbringers (5)
+---
+icon: phone-office
+---
+
+# | Fullbringers (5)
 

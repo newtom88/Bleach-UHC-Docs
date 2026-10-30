@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: swords
 ---
 
-# ⚔️ • Yamamoto
+# • Yamamoto
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -33,7 +34,7 @@ description: by love4market
 
 » _Promotion_ | `/bl promotion` | _1x/partie_
 
-> <mark style="color:green;">**Yamamoto**</mark> ouvre un menu avec l'ensemble des joueurs de la partie, il pourra alors en choisir un et plusieurs chose arriveront : <br>
+> <mark style="color:green;">**Yamamoto**</mark> ouvre un menu avec l'ensemble des joueurs de la partie, il pourra alors en choisir un et plusieurs chose arriveront :<br>
 >
 > <mark style="color:blue;">**➲**</mark> Le joueur est déjà **capitaine** : obtientiont de <mark style="color:red;">**2❤**</mark> supplémentaires.\
 > <mark style="color:blue;">**➲**</mark> Le joueur n'est pas **capitaine** : il le devient et obtient **5%** de <mark style="color:red;">**Force**</mark>.\
@@ -53,7 +54,7 @@ description: by love4market
 
 » _Zanka no Tachi_ | `Clic-Droit` | _Cooldown: 8mn & 4x/partie_
 
-> <mark style="color:green;">**Yamamoto**</mark> ouvre un premier menu avec lequel il pourra choisir entre **3 capacités** : <br>
+> <mark style="color:green;">**Yamamoto**</mark> ouvre un premier menu avec lequel il pourra choisir entre **3 capacités** :<br>
 >
 > <mark style="color:green;">**➲**</mark> **Est** : <mark style="color:green;">**Yamamoto**</mark> pourra tous les **5 coups** enflammé le joueur pendant **6sec** sans qu'il puisse s'éteindre, retirant la possibilité aux joueurs de recevoir quelconque effet d'<mark style="color:yellow;">**Absorption**</mark> pendant **10sec**. En frappant un joueur étant sous l'emprisse de **Zanka no Tachi Est**, le compteur ne pourra pas augmenter.<br>
 >
@@ -66,4 +67,4 @@ description: by love4market
 > Cette capacité restera actif pendant **3mn** et <mark style="color:green;">**Yamamoto**</mark> obtiendra <mark style="color:orange;">**Résistance I**</mark> durant cette durée.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/S1c4H2pwWhoAAAAC/yamamoto.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/S1c4H2pwWhoAAAAC/yamamoto.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Yamamoto</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

@@ -1,2 +1,6 @@
-# ⚔️ | Shinigamis (19)
+---
+icon: swords
+---
+
+# | Shinigamis (19)
 

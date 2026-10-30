@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: swords
 ---
 
-# ⚔️ • Orihime
+# • Orihime
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -42,4 +43,4 @@ description: by love4market
 > <mark style="color:green;">**➲**</mark> Via un **clic-gauche**, <mark style="color:green;">**Orihime**</mark> utilise la capacité sur elle.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/XgE9fINq5SsAAAAC/orihime-orihime-inoue.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/XgE9fINq5SsAAAAC/orihime-orihime-inoue.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Orihime</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

@@ -1,8 +1,9 @@
 ---
 description: by new.t0m (inspiré de java)
+icon: cross
 ---
 
-# ✝️ • Yhwach
+# • Yhwach
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -15,9 +16,9 @@ description: by new.t0m (inspiré de java)
 
 » Auswählen | `!auswahlen` | _1x/partie_
 
-> <mark style="color:blue;">**Yhwach**</mark> obtient alors divers **bonus** cumulables en fonction du nombre de <mark style="color:blue;">**Quincys**</mark> morts à l'envoie de la commande générant alors une rayon de balise sur les coordonnées des <mark style="color:blue;">**Quincys**</mark> morts : <br>
+> <mark style="color:blue;">**Yhwach**</mark> obtient alors divers **bonus** cumulables en fonction du nombre de <mark style="color:blue;">**Quincys**</mark> morts à l'envoie de la commande générant alors une rayon de balise sur les coordonnées des <mark style="color:blue;">**Quincys**</mark> morts :<br>
 >
-> <mark style="color:blue;">**➲**</mark> **2&#x20;**<mark style="color:blue;">**Quincys**</mark>**&#x20;morts** : Une fois dans la partie, lorsqu'un joueur sera éliminé de la main d'un <mark style="color:blue;">**Quincys**</mark> dans un rayon de **15 blocs** de <mark style="color:blue;">**Yhwach**</mark>, ce dernier pourra alors décider de le faire passer dans son camp en le ressuscitant, et le joueur apparaîtra alors aléatoirement sur la carte. \
+> <mark style="color:blue;">**➲**</mark> **2&#x20;**<mark style="color:blue;">**Quincys**</mark>**&#x20;morts** : Une fois dans la partie, lorsqu'un joueur sera éliminé de la main d'un <mark style="color:blue;">**Quincys**</mark> dans un rayon de **15 blocs** de <mark style="color:blue;">**Yhwach**</mark>, ce dernier pourra alors décider de le faire passer dans son camp en le ressuscitant, et le joueur apparaîtra alors aléatoirement sur la carte.\
 > Il existe cependant des **exceptions** étant : <mark style="color:green;">**Ichigo**</mark>, <mark style="color:green;">**Yamamoto**</mark>, <mark style="color:green;">**Shinji**</mark>, la <mark style="color:yellow;">**Division 0**</mark>, les <mark style="color:purple;">**Fullbringers**</mark> et <mark style="color:orange;">**Aizen**</mark>.<br>
 >
 > <mark style="color:blue;">**➲**</mark> **5&#x20;**<mark style="color:blue;">**Quincys**</mark>**&#x20;morts** : <mark style="color:blue;">**Yhwach**</mark> obtient <mark style="color:red;">**2❤**</mark> permanents.<br>
@@ -32,7 +33,7 @@ description: by new.t0m (inspiré de java)
 
 > <mark style="color:blue;">**Yhwach**</mark> est le premier joueur à recevoir son **rôle**, une **minute** avant tout le monde, il obtiendra une liste de **3 joueurs** et pourra en choisir un pour devenir <mark style="color:blue;">**Jugram**</mark>.
 >
-> Une fois les **rôles** annoncé :&#x20;
+> Une fois les **rôles** annoncé :
 >
 > <mark style="color:blue;">**Yhwach**</mark> obtient une liste des <mark style="color:blue;">**Quincys**</mark> contenant l'identité de <mark style="color:blue;">**Pernida**</mark>, <mark style="color:blue;">**Lille Barro**</mark>, <mark style="color:blue;">**Gerard**</mark> et <mark style="color:blue;">**Askin**</mark>. Ils obtiendrons également les coordonnées de <mark style="color:blue;">**Yhwach**</mark> toutes les **10 minutes**. <mark style="color:blue;">**Yhwach**</mark> obtient également l'identité exacte de <mark style="color:blue;">**Jugram**</mark> et pourront communiquer vie un chat commun à l'aide de la commande à l'aide du préfixe "**?**".
 {% endhint %}
@@ -54,7 +55,7 @@ description: by new.t0m (inspiré de java)
 
 » Ombre | `Clic-Droit` | _2x/partie_
 
-> <mark style="color:blue;">**Yhwach**</mark> ouvre un menu avec la liste des <mark style="color:blue;">**Quincys**</mark> encore en vie présent dans la partie, il pourra alors en choisir pour le téléporter à lui. Le joueur disposera alors de **20 secondes** pour accepter (`/bl accept`) ou refusé (`/bl deny`) la téléportation avant de se faire téléporté **2 secondes** plus tard à <mark style="color:blue;">**Yhwach**</mark>.&#x20;
+> <mark style="color:blue;">**Yhwach**</mark> ouvre un menu avec la liste des <mark style="color:blue;">**Quincys**</mark> encore en vie présent dans la partie, il pourra alors en choisir pour le téléporter à lui. Le joueur disposera alors de **20 secondes** pour accepter (`/bl accept`) ou refusé (`/bl deny`) la téléportation avant de se faire téléporté **2 secondes** plus tard à <mark style="color:blue;">**Yhwach**</mark>.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/hlG_Rbz7vPkAAAAC/yhwach-bleach-tybw.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/hlG_Rbz7vPkAAAAC/yhwach-bleach-tybw.gif" alt=""><figcaption><p><mark style="color:blue;"><strong>Yhwach</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

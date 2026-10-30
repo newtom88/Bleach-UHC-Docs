@@ -1,2 +1,6 @@
-# 🗡️ | Solitaire (2)
+---
+icon: knife-kitchen
+---
+
+# | Solitaire (2)
 

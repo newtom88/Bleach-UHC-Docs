@@ -1,8 +1,9 @@
 ---
 description: by love4market
+icon: swords
 ---
 
-# ⚔️ • Shinji
+# • Shinji
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -15,7 +16,7 @@ description: by love4market
 
 » _Objets à disposition_
 
-> <mark style="color:green;">**Shinji**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Trachant I**</mark> nommée "**Sakanade**".&#x20;
+> <mark style="color:green;">**Shinji**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Trachant I**</mark> nommée "**Sakanade**".
 
 ***
 
@@ -37,7 +38,7 @@ description: by love4market
 
 » _Noren Mekuri_ | `Clic-Droit` | _Cooldown: 8mn_
 
-> Pendant **1mn**, <mark style="color:green;">**Shinji**</mark> créer une **zone** de **25 blocs** qui le suit où les **effets** sont inversé à valeur égal : <br>
+> Pendant **1mn**, <mark style="color:green;">**Shinji**</mark> créer une **zone** de **25 blocs** qui le suit où les **effets** sont inversé à valeur égal :<br>
 >
 > <mark style="color:green;">**➲**</mark> <mark style="color:red;">**Force**</mark> ↔ <mark style="color:purple;">**Faiblesse**</mark>\
 > <mark style="color:green;">**➲**</mark> <mark style="color:blue;">**Vitesse**</mark> ↔ <mark style="color:purple;">**Lenteur**</mark>\
@@ -49,7 +50,9 @@ description: by love4market
 
 » _Sakashima Yokoshima Hassagari_ | `Clic-Droit` | _Cooldown: 10mn_
 
-> <mark style="color:green;">**Shinji**</mark> génère un **écran noir** sur l'ensemble des joueurs vivant dans un rayon de **25 blocs** avant de les échanger de façon aléatoire de position et d'identité.&#x20;
+> <mark style="color:green;">**Shinji**</mark> génère un **écran noir** sur l'ensemble des joueurs vivant dans un rayon de **25 blocs** avant de les échanger de façon aléatoire de position et d'identité.
 >
 > Uniquement <mark style="color:green;">**Shinji**</mark> et <mark style="color:blue;">**Yhwach**</mark> verra le véritable nom des joueurs.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/a4PVIakThp0AAAAC/shinji-hirako.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Shinji</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

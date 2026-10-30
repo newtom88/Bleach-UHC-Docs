@@ -1,4 +1,8 @@
-# 🗡️ • Grimmjow
+---
+icon: knife-kitchen
+---
+
+# • Grimmjow
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -13,7 +17,7 @@
 
 » Objets à disposition
 
-> <mark style="color:orange;">**Grimmjow**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Pantera**".&#x20;
+> <mark style="color:orange;">**Grimmjow**</mark> reçoit une **épée** en diamant <mark style="color:purple;">**Tranchant I**</mark> nommée "**Pantera**".
 >
 > "**Pantera**" convertit passivement le **% de vie** du joueur frappé en **%** de <mark style="color:red;">**Force**</mark> divisé par **4**. (_Si le joueur dispose de 100% de sa vie alors **25%** de <mark style="color:red;">**Force**</mark>_)
 
@@ -45,7 +49,7 @@
 
 » Ressurecion | `Clic-Droit` | _Cooldown: 6mn_
 
-> <mark style="color:orange;">**Grimmjow**</mark> obtient alors **10%** de <mark style="color:blue;">**Vitesse**</mark> pendant **2 minutes**.&#x20;
+> <mark style="color:orange;">**Grimmjow**</mark> obtient alors **10%** de <mark style="color:blue;">**Vitesse**</mark> pendant **2 minutes**.
 >
 > Durant ce lapse de temps, <mark style="color:orange;">**Grimmjow**</mark> convertie passivement **20% des dégâts** en soin pour lui même.
 
@@ -56,4 +60,4 @@
 > Tous les **5 coups** et pour un total de **5 fois**, l'ensemble des joueurs présent dans un rayon de **10 blocs** à l'exception du joueur frappé et de <mark style="color:orange;">**Grimmjow**</mark> seront alors repoussé d'une **dizaine de blocs** générant des particules bleues.
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/VWnX-oK-VvUAAAAd/grimmjow-jaegerjaquez-jaegerjaquez.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/VWnX-oK-VvUAAAAd/grimmjow-jaegerjaquez-jaegerjaquez.gif" alt=""><figcaption><p><mark style="color:orange;"><strong>Grimmjow</strong></mark> - <strong>Bleach</strong> </p></figcaption></figure>

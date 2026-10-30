@@ -1,8 +1,9 @@
 ---
 description: by new.t0m
+icon: phone-office
 ---
 
-# ☎️ • Riruka
+# • Riruka
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -52,17 +53,17 @@ description: by new.t0m
 {% hint style="success" %}
 **→&#x20;**<mark style="color:green;">**CAPACITÉS ACTIVES**</mark>
 
-» _Dollhouse_ | `Clic-Droit`&#x20;
+» _Dollhouse_ | `Clic-Droit`
 
 > <mark style="color:purple;">**Riruka**</mark> ouvre un menu avec l'ensemble des joueurs de la partie et leurs **% de charme**.
 >
 > En ciblant un joueur, <mark style="color:purple;">**Riruka**</mark> l'enverra alors **5 secondes** plus tard dans sa "**Dollhouse**". Le **% de chance** que le joueur y soit envoyé dépendra du **% de charme** de ce dernier.
 >
-> Un joueur dans "**Dollhouse**" ne pourra alors plus interagir avec la partie et devra attendre **3 minutes** pour sortir. Le joueur possède plusieurs façons de sortir prématurément de "**Dollhouse**" : <br>
+> Un joueur dans "**Dollhouse**" ne pourra alors plus interagir avec la partie et devra attendre **3 minutes** pour sortir. Le joueur possède plusieurs façons de sortir prématurément de "**Dollhouse**" :<br>
 >
 > <mark style="color:green;">**➲**</mark> Un bloc de **Bois d'Acajou** est alors généré aux anciennes coordonnées du joueur, si un joueur en dehors de la "**Dollhouse**" le casse, le joueur a qui correspond ce bloc sera alors téléporté à ce dernier.<br>
 >
-> <mark style="color:green;">**➲**</mark> Après **1 minute**, le joueur enfermé pourra choisir d'en sortir en échange de <mark style="color:red;">**2❤**</mark> permanent pendant **2 minutes**. <br>
+> <mark style="color:green;">**➲**</mark> Après **1 minute**, le joueur enfermé pourra choisir d'en sortir en échange de <mark style="color:red;">**2❤**</mark> permanent pendant **2 minutes**.<br>
 >
 > Pour chaque joueur dans la "**Dollhouse**", <mark style="color:purple;">**Riruka**</mark> perd <mark style="color:red;">**1❤**</mark> qu'elle récupère à la sortie d'un joueur ou à la mort d'un d'entre eux.
 >
@@ -73,4 +74,4 @@ description: by new.t0m
 > <mark style="color:red;">**\<!>**</mark> <mark style="color:purple;">**Riruka**</mark> ne peut pas envoyé plus de **3 joueurs** dans la "**Dollhouse**".
 {% endhint %}
 
-<figure><img src="https://media1.tenor.com/m/D93Dh_FdyVwAAAAC/heart-riruka.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://media1.tenor.com/m/D93Dh_FdyVwAAAAC/heart-riruka.gif" alt=""><figcaption><p><mark style="color:purple;"><strong>Riruka</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>
