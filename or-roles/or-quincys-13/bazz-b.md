@@ -1,31 +1,29 @@
+---
+description: by new.t0m (inspiré de java)
+---
+
 # • Bazz-B
-
-
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
 » _Effets à disposition_
 
-> **xxx** dispose de **xxx**.
+> **Bazz-B** dispose de l'effet **Résistance au Feu** en permanence.
 
 ***
 
-» _Objets à disposition_
+» _The Heat_
 
-> **xxx** reçoit une xxx nommée "**xxx**".
-
-***
-
-» _xxx_
-
-> xxx
+> Les **flammes** généré par **Bazz-B** ne peuvent pas s'éteindre sauf en allant dans l'**eau**.
+>
+> Les **flammes** de **Bazz-B** sont **1.5x** plus rapide.
 
 ***
 
-» _xxx_ | `!xxx`
+» _Quincy_
 
-> **xxx** peut **activer** et **désactiver** cette commande à l'**infini**.
+> **Bazz-B** obtient l'**identité** de **Jugram** à l'annonce des rôles.
 {% endhint %}
 
 {% hint style="success" %}
