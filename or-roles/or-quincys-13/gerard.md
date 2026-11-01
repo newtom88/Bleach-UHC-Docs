@@ -1,13 +1,15 @@
+---
+description: by new.t0m (inspiré de java)
+---
+
 # • Gerard
-
-
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
-» _Effets à disposition_
+» _The Miracle_
 
-> **xxx** dispose de **xxx**.
+> Lorsque **Gerard** vient à mourir, un cercle de particule nommée "**Miracle**" apparaît et **Gerard** ne meurt pas. Le **cerlce** dispose de **100❤**. Tanque que le "**Miracle** n'est pas entièrement détruit, **Gerard** réapparâit à la même position du "**Miracle**" après **6sec**.&#x20;
 
 ***
 
