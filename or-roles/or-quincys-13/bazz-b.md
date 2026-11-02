@@ -46,3 +46,5 @@ icon: cross
 >
 > > <mark style="color:blue;">**Bazz-B**</mark> fait apparaître un **cercle de feu** mobile de **10 blocs** autour de lui pendant **10sec**. Les joueurs à l'intérieur ne peuvent pas y sortir et les joueurs à l'extérieur ne peuvent pas y rentrer, de plus si un joueur touche les limites, il prendra feu.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/6YCLLXzVCx0AAAAd/bleach-tybw.gif" alt=""><figcaption><p><mark style="color:blue;"><strong>Bazz-B</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>

@@ -60,3 +60,5 @@ icon: cross
 
 > <mark style="color:blue;">**Gerard**</mark> obtient l'**identité** de <mark style="color:blue;">**Yhwach**</mark> à l'annonce des rôles.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/Da9XpJ_NO5YAAAAd/gerard-gerard-valkyrie.gif" alt=""><figcaption><p><mark style="color:blue;"><strong>Gerard</strong></mark> - <strong>Bleach</strong></p></figcaption></figure>
