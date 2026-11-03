@@ -1,6 +1,8 @@
+---
+description: by love4market
+---
+
 # • Lille Barro
-
-
 
 {% hint style="info" %}
 **→&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
@@ -13,7 +15,7 @@
 
 » _Objets à disposition_
 
-> **xxx** reçoit une xxx nommée "**xxx**".
+> **Lille Barro** reçoit une xxx nommée "**xxx**".
 
 ***
 
