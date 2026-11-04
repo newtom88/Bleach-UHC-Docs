@@ -58,6 +58,7 @@
 ## | Particularités
 
 * [• Soul Society](or-particularites/soul-society.md)
-* [• Roi Spirituel](or-particularites/roi-spirituel.md)
+* [• Boutique d'Urahara](or-particularites/roi-spirituel.md)
+* [• Clinique Kurosaki](or-particularites/clinique-kurosaki.md)
 * [• Hôgyoko](or-particularites/hogyoko.md)
 * [• Catégories Notables](or-particularites/categories-notables.md)

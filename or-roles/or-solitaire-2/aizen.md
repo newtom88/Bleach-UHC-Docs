@@ -36,7 +36,7 @@ icon: knife-kitchen
 
 > <mark style="color:orange;">**Aizen**</mark> reçoit passivement le première **Hôgyoku** ainsi que l'**identité** du joueur recevant le **second**. En plus, il obtient une liste de **5 joueurs** et leurs **rôles** qu'il devra traqué.<br>
 >
-> <mark style="color:blue;">**➲**</mark> En tuant le possesseur du second **Hôgyoku**, <mark style="color:orange;">**Aizen**</mark> reçoit l'effet **Vitesse I**.<br>
+> <mark style="color:blue;">**➲**</mark> En tuant le possesseur du second **Hôgyoku**, <mark style="color:orange;">**Aizen**</mark> reçoit l'effet <mark style="color:blue;">**Vitesse I**</mark>.<br>
 >
 > Pour chaque joueur de la liste tuer, <mark style="color:orange;">**Aizen**</mark> pourra choisir un passif parmi les suivants.<br>
 >
